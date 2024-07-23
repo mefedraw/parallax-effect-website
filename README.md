@@ -1,2 +1,2 @@
 ﻿# parallax-effect-website
-[https://mefedraw.github.io/parallax-effect-website/](https://mefedraw.github.io/parallax-effect-website/Index)
+https://mefedraw.github.io/parallax-effect-website/Index
